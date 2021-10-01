@@ -2,6 +2,11 @@
 
 A handwriting recognition for numbers 0 to 10.
 
+# Installation
+```
+pip install -r requirements.txt
+```
+
 # Graph and Histograms
 
 ![](https://github.com/eneeesyk/Handwrite-Recognition/blob/main/graph.JPG)
