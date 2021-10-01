@@ -1,4 +1,4 @@
-# Handwrite-Recognition
+# Handwrite Recognition
 
 A handwriting recognition for numbers 0 to 10.
 
